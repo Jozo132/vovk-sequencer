@@ -1,0 +1,28 @@
+{
+  "name": "vovk-sequencer",
+  "version": "0.0.0",
+  "description": "Promise based resolver for sequential (serial), parallel and 'threaded' promise array execution.",
+  "main": "sequencer.js",
+  "scripts": {
+    "test": "node examples.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jozo132/vovk-sequencer.git"
+  },
+  "keywords": [
+    "JS",
+    "JavaScript",
+    "Node",
+    "NodeJS",
+    "Promise",
+    "Execution",
+    "Sequential"
+  ],
+  "author": "J.Vovk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jozo132/vovk-sequencer/issues"
+  },
+  "homepage": "https://github.com/Jozo132/vovk-sequencer#readme"
+}
