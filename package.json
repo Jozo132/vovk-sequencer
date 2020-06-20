@@ -1,6 +1,6 @@
 {
   "name": "vovk-sequencer",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Promise based resolver for sequential (serial), parallel and 'threaded' promise array execution.",
   "main": "sequencer.js",
   "scripts": {
